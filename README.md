@@ -27,3 +27,23 @@ This HR Analytics Dashboard provides valuable insights into your organization's 
 - **Interactive Visualizations:** Leverage bar charts, pie charts, and tables to gain a clear understanding of various HR metrics.
 - **Drill-Down Capabilities:** Explore data in greater depth by clicking on specific elements within visualizations or tables.
 - **Clear Presentation:** Information is presented in a well-organized and easy-to-understand manner, facilitating informed decision-making.
+
+## Note- I have added the Power BI HR Analytics Dashboard file(.pbix). Few things to keep in mind for the same:
+
+### Disclaimer:
+This Power BI (.pbix) file is not viewable directly on GitHub due to platform limitations. GitHub does not support the interactive rendering of Power BI files. Please follow the steps below to view the content:
+
+### Viewing Steps:
+1. **Download:**
+   Download the `.pbix` file by clicking on the "Download" button in the GitHub repository.
+
+2. **Local Installation:**
+   Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed on your local machine.
+
+3. **Open with Power BI Desktop:**
+   Open Power BI Desktop and choose "File" > "Open" to load the downloaded `.pbix` file.
+
+4. **Interactivity:**
+   Explore the interactive features within Power BI Desktop to interact with the visualizations and gain insights.
+
+Please note that this approach allows for full interactivity, providing a comprehensive experience compared to the static view on GitHub.
